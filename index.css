@@ -289,14 +289,14 @@ h1, h2, h3, h4, h5, h6 {
 #hero .social-links a {
   font-size: 40px;
   display: inline-block;
-  color: #f7f2fa;
+  color: #0d04f8;
   line-height: 1;
   margin-right: 20px;
   transition: 0.3s;
 }
 
 #hero .social-links a:hover {
-  color: #0563bb;
+  color: #fcfdfe;
 }
 
 @media (max-width: 992px) {
@@ -312,14 +312,14 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 20px;
     line-height: 24px;
   }
-   #hero .social-links a {
+  /* #hero .social-links a {
     font-size: 30px;
     display: inline-block;
     color: #45505b;
     line-height: 1;
     margin: 10px;
     transition: 0.3s;
-  }
+  }*/
   .mail{
   position: relative;
   cursor: pointer;
