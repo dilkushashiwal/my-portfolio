@@ -244,9 +244,9 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 992px) {
   #hero {
-    padding-left: 100px;
+    padding-left: 150px;
   }
 }
 
