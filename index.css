@@ -289,14 +289,14 @@ h1, h2, h3, h4, h5, h6 {
 #hero .social-links a {
   font-size: 40px;
   display: inline-block;
-  color: #0d04f8;
+  color: #FFFFFF;
   line-height: 1;
   margin-right: 20px;
   transition: 0.3s;
 }
 
 #hero .social-links a:hover {
-  color: #fcfdfe;
+  color: #FFFFFF;
 }
 
 @media (max-width: 992px) {
