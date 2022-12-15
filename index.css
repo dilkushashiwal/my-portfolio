@@ -296,7 +296,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .social-links a:hover {
-  color: #FF0000;
+  color: #ff0000;
 }
 
 @media (max-width: 992px) {
