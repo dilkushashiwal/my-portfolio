@@ -237,11 +237,9 @@ h1, h2, h3, h4, h5, h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  width: %;
-  height: 98vh;
+height: 98vh;
   margin-top: 2%;
   margin-left: 2%;
-  margin-bottom: 2%;
   margin-right: 2%;
   background: url("img/bg portpolio1.jpeg") center no-repeat;
   background-size: cover;
